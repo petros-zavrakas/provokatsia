@@ -7,6 +7,7 @@ export const MemberCont = styled.li`
 `;
 
 export const Photo = styled.div`
+  border: 6px solid rgba(255, 255, 255, 0.2);
   border-radius: 100%;
   height: 90px;
   overflow: hidden;
@@ -39,6 +40,8 @@ export const Details = styled.div`
     font-size: 0.75rem;
     margin-right: 10px;
 
-    span{ color: #fff }
+    span {
+      color: #fff;
+    }
   }
 `;
