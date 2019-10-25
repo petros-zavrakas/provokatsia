@@ -4,6 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 React, React Hooks, Redux, Styled Component, Jest, Enzyme
 
-### `npm start`
+### `Demo`
 
-Runs the app in the development mode
+https://petros-zavrakas.github.io/provokatsia/
